@@ -1,0 +1,3 @@
+sol: sort data.txt | uniq -u
+
+pwd: EN632PlfYiZbn3PhVK3XOGSlNInNE00t

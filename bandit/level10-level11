@@ -1,0 +1,3 @@
+sol: strings data.txt | base64 --decode
+
+pwd: 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
