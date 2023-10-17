@@ -1,0 +1,31 @@
+sol: mkdir /tmp/octopus
+     cp data.txt /tmp/octopus
+     cd /tmp/octopus
+     mv data.txt data
+     xxd -r data > binary
+     file binary
+     mv binary binary.gz
+     gunzip binary.gz
+     file binary
+     bunzip2 binary
+     file binary.out
+     mv binary.out binary.gz
+     gunzip binary.gz
+     file binary
+     tar -xf binary
+     rm binary data
+     file data5.binary
+     tar -xf data5.bin 
+     rm data5.bin 
+     file data6.bin 
+     bunzip2 data6.bin 
+     file data6.bin.out
+     tar -xf data6.bin.out
+     rm data6.bin.out
+     file data8.bin 
+     mv data8.bin data8.gz
+     gunzip data8.gz
+     file data8
+     cat data8
+
+pwd: wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
