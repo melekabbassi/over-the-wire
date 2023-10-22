@@ -1,0 +1,7 @@
+sol: cd /etc/bandit_pass
+     cat bandit14
+     copy the password
+     nc localhost 30000
+     paste the password of bandit14
+
+pwd: jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
