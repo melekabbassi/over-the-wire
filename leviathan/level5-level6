@@ -1,0 +1,4 @@
+sol: touch /tmp/file.log
+     ln -s /etc/leviathan_pass/leviathan6 /tmp/file.log
+
+pwd: YZ55XPVk2l

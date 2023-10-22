@@ -1,0 +1,7 @@
+sol: ltrace ./level3 
+     type test
+     see strcmp to get the password
+     password: snlnprintf
+     cat /etc/leviathan_pass/leviathan4
+
+pwd: AgvropI4OA

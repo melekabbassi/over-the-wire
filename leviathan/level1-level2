@@ -1,0 +1,7 @@
+sol: ltrace ./check
+     type test
+     strcmp will give the pwd
+     password: sex
+     whoami
+     cat etc/leviathan_pass/leviathan2
+pwd: mEh5PNl10e

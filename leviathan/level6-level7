@@ -1,0 +1,10 @@
+sol: gdb --args leviathan6 0000
+     disassemble main
+     break *0x804922a
+     run
+     info registers
+     print $edp-0xc
+     x 0xffffd57c
+     print/d 0x00001bd3
+
+pwd: 8GpZ5f8Hze

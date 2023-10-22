@@ -1,0 +1,3 @@
+sol: cd .backup/
+     cat bookmarks.html | grep password
+pwd: PPIfmI1qsA

