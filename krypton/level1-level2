@@ -1,0 +1,6 @@
+sol: cd /krypton
+     cat README
+     cat krypton2
+     decrypt using rot13
+
+pwd: ROTTEN
