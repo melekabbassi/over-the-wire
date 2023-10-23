@@ -1,0 +1,11 @@
+sol: mktemp -d
+     cd /tmp/...
+     ln -s /krypton/krypton2/keyfile.dat 
+     chmod 777 .
+     echo "AAAAA" > encrypt.txt
+     /krypton/krypton2/encrypt encrypt.txt
+     cat ciphertext
+     -> MMMMM
+     cat /krypton/krypton2/krypton3 | tr 'A-Za-z' 'O-ZA-No-za-n'
+        
+pwd: CAESARISEASY
